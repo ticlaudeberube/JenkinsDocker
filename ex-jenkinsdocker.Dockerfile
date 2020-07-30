@@ -1,2 +1,2 @@
-FROM chrisbbehrens/jenkinsdocker:v1
+FROM chrisbbehrens/jenkinsdocker:v2
 ENV DOCKER_CLI_EXPERIMENTAL=enabled
